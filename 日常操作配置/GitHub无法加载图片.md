@@ -4,11 +4,11 @@
 
 **配置前：没有加载出图片**
 
-![1](https://github.com/linl-sec/linlsec.github.io/tree/main/images/日常操作配置/1.png)
+![1](https://github.com/linl-sec/linlsec.github.io/blob/main/images/%E6%97%A5%E5%B8%B8%E6%93%8D%E4%BD%9C%E9%85%8D%E7%BD%AE/1.png)
 
 **配置后：图片加载成功**
 
-![2](https://github.com/linl-sec/linlsec.github.io/tree/main/images/日常操作配置/2.png)
+![2](https://github.com/linl-sec/linlsec.github.io/blob/main/images/%E6%97%A5%E5%B8%B8%E6%93%8D%E4%BD%9C%E9%85%8D%E7%BD%AE/2.png)
 
 **如何配置：**
 
